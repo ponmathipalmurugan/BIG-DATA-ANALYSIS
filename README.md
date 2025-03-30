@@ -61,5 +61,8 @@ Use display() commands to visualize top performers.
 
 **Results**
 Identifies underrated players who performed well but went unsold in the auction.
+
 Highlights top batsmen with high strike rates and boundary counts.
-Lists top bowlers with good wicket-taking ability and economy rates. Screenshot 2025-03-24 091603 Screenshot 2025-03-24 091638
+
+Lists top bowlers with good wicket-taking ability and economy rates.
+Screenshot 2025-03-24 091603 Screenshot 2025-03-24 091638
