@@ -81,3 +81,7 @@ Highlights top batsmen with high strike rates and boundary counts.
 
 Lists top bowlers with good wicket-taking ability and economy rates.
 Screenshot 2025-03-24 091603 Screenshot 2025-03-24 091638
+
+![Image](https://github.com/user-attachments/assets/4ae34fd6-d0cd-4407-92a7-a6e17f685724)
+
+![Image](https://github.com/user-attachments/assets/4f106ed3-308e-449a-a5f7-9d1e63a92b52)
